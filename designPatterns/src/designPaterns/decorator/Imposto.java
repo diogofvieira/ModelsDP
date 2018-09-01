@@ -1,4 +1,4 @@
-package designPaterns.Decorator;
+package designPaterns.decorator;
 
 public abstract class Imposto {
 	

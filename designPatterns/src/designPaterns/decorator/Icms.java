@@ -1,4 +1,4 @@
-package designPaterns.Decorator;
+package designPaterns.decorator;
 
 public class Icms extends Imposto{
 

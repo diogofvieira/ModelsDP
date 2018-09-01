@@ -1,7 +1,7 @@
 package designPatterns.test;
 
-import designPatterns.ChainOfResponsibilitie.ClaculadorDesconto;
-import designPatterns.ChainOfResponsibilitie.Item;
+import designPatterns.chainofresponsibilitie.ClaculadorDesconto;
+import designPatterns.chainofresponsibilitie.Item;
 import designPatterns.strategy.Orcamento;
 
 public class DescontoTest {

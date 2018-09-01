@@ -1,4 +1,4 @@
-package designPatterns.ChainOfResponsibilitie;
+package designPatterns.chainofresponsibilitie;
 
 public class Item {
 	

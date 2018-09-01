@@ -1,9 +1,9 @@
 package designPatterns.test;
 
-import designPaterns.Decorator.Icms;
-import designPaterns.Decorator.Imposto;
-import designPaterns.Decorator.Iss;
-import designPaterns.Decorator.Orcamento;
+import designPaterns.decorator.Icms;
+import designPaterns.decorator.Imposto;
+import designPaterns.decorator.Iss;
+import designPaterns.decorator.Orcamento;
 
 
 
