@@ -1,6 +1,7 @@
 package designPatterns.test;
 
-import designPatterns.strategy.Orcamento;
+import designPatterns.state.Orcamento;
+
 
 public class TesteDescontoExtra {
 	
@@ -10,6 +11,16 @@ public class TesteDescontoExtra {
 		reforma.aplicaDescontoExtra();
 		
 		System.out.println(reforma.getValor());
+		
+		reforma.aprova();
+		
+		reforma.aplicaDescontoExtra();
+		
+		System.out.println(reforma.getValor());
+	
+		reforma.finaliza();
+
+		reforma.aplicaDescontoExtra();
 	}
 
 }

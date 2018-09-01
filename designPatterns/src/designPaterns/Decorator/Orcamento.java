@@ -7,7 +7,7 @@ import designPatterns.ChainOfResponsibilitie.Item;
 
 public class Orcamento {
 
-	private final double valor;
+	protected double valor;
 	private final List<Item> itens;
 
 	public Orcamento(double valor){
